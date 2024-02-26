@@ -6,6 +6,12 @@ Here is the data pipeline :
 
 ![mobile_Data_pipeline](images/data_pipeline.png)
 
+## Dashboard
+
+Here is the  Dashboard created in Power BI:
+
+![mobile Dashboard](images/dashboard_mobile.png)
+
 
 ## Repository Structure
 
