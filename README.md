@@ -36,7 +36,6 @@ Here is the  Dashboard created in Power BI:
     |
     \---PPT
             ETL - Datai Club.pdf
-            ETL - Datai Club.pptx
 ```
 
 
