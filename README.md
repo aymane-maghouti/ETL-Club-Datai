@@ -1,5 +1,14 @@
 # ETL-Club-Datai
 
+
+## Data Pipeline
+Here is the data pipeline :
+
+![mobile_Data_pipeline](images/data_pipeline.png)
+
+
+## Repository Structure
+
 ```batch
 \---ETL-Club-Datai
     |   README.md
